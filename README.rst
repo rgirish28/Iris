@@ -9,11 +9,11 @@ The Minkowski distance is used for classification and comparison of patterns. Th
 
 Using Naor and Shamir's 2,2 visual cryptography method, we then encode a code within an image and split it into 2 shares. One is given to the user which is combined with the one remaining in the system to authenticate the user. 
 
-.. image:: https://github.com/rgirish28/Iris/blob/master/shares/488877share1.png
+.. image:: https://raw.github.com/rgirish28/Iris/master/shares/488877share1.png
 
-.. image:: https://github.com/rgirish28/Iris/blob/master/shares/488877share2.png
+.. image:: https://raw.github.com/rgirish28/Iris/master/shares/488877share2.png
 
-.. image:: https://github.com/rgirish28/Iris/test.png
+.. image:: https://raw.github.com/rgirish28/Iris/master/combined/488877.png
 
 
 
